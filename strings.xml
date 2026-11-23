@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">راصد صور الطلاب</string>
+    <string name="app_subtitle">مطابقة وإعادة تسمية صور الطلاب تلقائيًا بملفات الإكسيل</string>
+    <string name="tab_excel">بيانات الإكسيل</string>
+    <string name="tab_photos">مجلد الصور</string>
+    <string name="tab_matching">المطابقة والترتيب</string>
+    <string name="tab_export">التسمية والتصدير</string>
+    <string name="select_excel">اختيار ملف إكسيل (XLSX / CSV)</string>
+    <string name="select_photos_folder">اختيار مجلد الصور</string>
+</resources>
